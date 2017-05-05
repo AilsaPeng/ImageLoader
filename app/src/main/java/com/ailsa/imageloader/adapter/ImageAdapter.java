@@ -11,10 +11,6 @@ import android.widget.ImageView;
 import com.ailsa.imageloader.R;
 import com.ailsa.imageloader.imageloader.ImageLoader;
 
-/**
- * Created by 58 on 2017/5/5.
- */
-
 public class ImageAdapter extends BaseAdapter {
     private Drawable defaultDrawable;
     private String[] imageUrl;
